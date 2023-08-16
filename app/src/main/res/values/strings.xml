@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+    <string name="wearable_device_is_connected">Conecatado</string>
+    <string name="tap_to_edit_message">.</string>
+    <string name="send_message_to_wearable">.</string>
+    <string name="wearable_message">.</string>
+    <string name="message">Historial</string>
+    <string name="message_log">Historial Cardiaco</string>
+    <string name="init">...</string>
+    <string name="check_for_connected_wearables">Checando conexion</string>
+    <string name="send_message_alt">.</string>
+</resources>
